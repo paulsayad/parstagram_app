@@ -23,10 +23,10 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-# Make a new account and post!
+### Make a new account and post!
 
 <img src='http://g.recordit.co/Vb32u9MgsQ.gif' title='New User' width='' alt='Video Walkthrough' />
 
-# You can always sign in again to see what you and others have posted!
+### You can always sign in again to see what you and others have posted!
 
 <img src='http://g.recordit.co/8PL2JbmsFV.gif' title='Current User' width='' alt='Video Walkthrough' />
